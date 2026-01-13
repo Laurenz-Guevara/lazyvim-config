@@ -1,0 +1,1 @@
+/home/zushi/.config/omarchy/current/theme/neovim.lua
